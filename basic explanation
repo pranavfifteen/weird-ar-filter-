@@ -1,0 +1,44 @@
+Introduction:
+The purpose of this project report is to document the development process of creating augmented reality (AR) face filter apps using Unity. The project aims to teach beginners how to develop AR applications and provide hands-on experience in building interactive face filters for Android and iOS devices. The report outlines the two main apps developed during the course, along with the techniques used and the skills acquired.
+
+Project Scope:
+The project focuses on creating two distinct AR face filter apps. The first app involves overlaying textures, animated 3D models, particles, and other effects on the user's face. The second app is an interactive glasses selection app that allows users to customize and visualize different pairs of glasses. Both apps will be developed using Unity and Visual Scripting, a graphical programming system that eliminates the need for writing code.
+
+Project Objectives:
+The objectives of the project include:
+
+Learning the fundamentals of AR app development.
+Gaining proficiency in Unity and Visual Scripting.
+Creating engaging and interactive face filters.
+Building apps compatible with Android and iOS devices.
+Strengthening skills through quizzes, challenges, and portfolio development.
+Methodology:
+The project follows a structured approach:
+a) Understanding AR Development: Researching the basics of AR, exploring trackable targets, and mobile AR platforms.
+b) Introduction to Unity and Visual Scripting: Familiarizing oneself with Unity's interface and learning the principles of Visual Scripting.
+c) App 1: Face Filter Overlay: Creating an app that overlays textures, animated 3D models, particles, and effects on the user's face using Unity and Visual Scripting.
+d) App 2: Interactive Glasses Selection: Developing an interactive app that allows users to select, customize, and visualize different pairs of glasses on their face.
+e) Testing and Optimization: Conducting thorough testing on Android and iOS devices, identifying and resolving any issues, and optimizing the performance of the apps.
+f) Quizzes and Challenges: Completing quizzes and challenges throughout the course to reinforce learning and showcase acquired skills.
+g) Portfolio Development: Documenting the development process, showcasing the apps, and creating a portfolio to demonstrate proficiency in AR app development.
+
+Results and Achievements:
+By the end of the project, the following results and achievements were obtained:
+
+Developed two AR face filter apps from start to finish.
+Acquired knowledge and skills in Unity and Visual Scripting.
+Created engaging and interactive face filters using various elements.
+Tested and ensured compatibility of the apps on Android and iOS devices.
+Completed quizzes and challenges to reinforce learning.
+Built a portfolio showcasing the developed apps and skills acquired.
+Conclusion:
+The project successfully achieved its objectives of teaching beginners how to develop AR face filter apps using Unity and Visual Scripting. The two apps developed provide a solid foundation for further exploration and expansion of AR app development. The skills gained throughout the project, along with the created portfolio, will serve as valuable assets for anyone interested in pursuing a career in the AR industry or simply creating cool face filters.
+
+Future Recommendations:
+To further enhance the project, the following recommendations are provided:
+
+Explore advanced AR features and techniques, such as object recognition and spatial mapping.
+Incorporate additional interactive elements and gestures for a more immersive user experience.
+Conduct user testing and gather feedback to improve app usability and performance.
+Stay updated with the latest advancements in AR technology and platforms to incorporate new features and functionalities.
+By following these recommendations, future iterations of the project can deliver even more compelling AR experiences and contribute to the ever-growing demand for AR applications.
